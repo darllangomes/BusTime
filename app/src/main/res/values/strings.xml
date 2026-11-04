@@ -1,6 +1,6 @@
 <resources>
     <!--  App name  -->
-    <string name="app_name">BusTime Goiânia</string>
+    <string name="app_name">BusTime Recife</string>
 
     <!--  TODO: Tile  -->
     <string name="tile_label">Example tile</string>
@@ -8,14 +8,14 @@
 
     <!--  Home screen  -->
     <string name="title">Horário do Ônibus</string>
-    <string name="subtitle">"BusTime Goiânia"</string>
+    <string name="subtitle">"BusTime Recife"</string>
 
     <!--  Search screen  -->
     <string name="search_title">Pesquisar ponto</string>
 
     <!--  Empty table  -->
     <string name="empty_table">Ponto não encontrado</string>
-    <string name="empty_bus_list">Não há ônibus próximos</string>
+    <string name="empty_bus_list">Sem horários programados a partir de agora</string>
 
     <!--  Bus time table  -->
     <string name="table_title">Ponto %s</string>
