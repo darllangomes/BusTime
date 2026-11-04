@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BusTime Goiânia"
+rootProject.name = "BusTime Recife"
 include(":app")
  

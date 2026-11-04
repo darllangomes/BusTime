@@ -25,9 +25,10 @@
             android:name="com.google.android.wearable.standalone"
             android:value="true" />
 
+        <!-- TODO: gere sua própria chave (Maps SDK for Android) antes de usar o mapa de rastreamento -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD8Twfzd-pQaRXnO8v5_bWiycOz78VHSOo"/>
+            android:value="YOUR_GOOGLE_MAPS_API_KEY"/>
 
         <activity
             android:name=".MainActivity"

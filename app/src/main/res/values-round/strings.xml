@@ -1,6 +1,6 @@
 <resources>
     <!--  App name  -->
-    <string name="app_name">BusTime Goiânia</string>
+    <string name="app_name">BusTime Recife</string>
 
     <!--  TODO: Tile  -->
     <string name="tile_label">Example tile</string>
@@ -8,7 +8,7 @@
 
     <!--  Home screen  -->
     <string name="title">Horário do Ônibus</string>
-    <string name="subtitle">"BusTime Goiânia"</string>
+    <string name="subtitle">"BusTime Recife"</string>
 
     <!--  Search screen  -->
     <string name="search_title">Pesquisar ponto</string>
